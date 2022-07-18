@@ -22,6 +22,6 @@
   
 ##
   
-- 🖥️ Atualmente trabalho com suporte técnico 
-- 💡 Estou cursando a graducação em Análise e Desenvolvimento de sistemas 
+- 🖥️ Atualmente trabalho com Suporte Técnico 
+- 💡 Estou cursando graducação em Análise e Desenvolvimento de Sistemas 
 - 🦾 Pronouns: ela/dela
