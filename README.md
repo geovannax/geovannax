@@ -22,6 +22,6 @@
   
 ##
   
-- 🖥️ Atualmente trabalho com Suporte Técnico 
+- 🖥️ Sou técnica em Informática e atualmente trabalho com Suporte Técnico 
 - 💡 Estou cursando graducação em Análise e Desenvolvimento de Sistemas 
 - 🦾 Pronouns: ela/dela
