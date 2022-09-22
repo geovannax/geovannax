@@ -10,7 +10,7 @@
    <td>
    
 - 🖥️ Sou técnica em Informática e atualmente trabalho com Suporte Técnico
-- 💡 Estou cursando graducação em Análise e Desenvolvimento de Sistemas 
+- 💡 Estou cursando graduação em Análise e Desenvolvimento de Sistemas 
 - 🔄 Uma Java Developer em desenvolvimento
 - 🦾 Veja meu progresso nos repositórios
 
