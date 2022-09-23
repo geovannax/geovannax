@@ -46,8 +46,8 @@
   
 ##
 
-🖥️ I'm a IT technician and I currently work with Technical Support
-💡 I'm studying Systems Analysis and Development
-🔄 A Java Developer in Development
-🦾 See my progress in the repositories <p/>
+🖥️ I'm a IT technician and I currently work with Technical Support | 
+💡 I'm studying Systems Analysis and Development | 
+🔄 A Java Developer in Development | 
+🦾 See my progress in the repositories 
 
