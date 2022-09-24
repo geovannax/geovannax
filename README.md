@@ -11,7 +11,6 @@
    
 - 🖥️ Sou técnica em Informática e atualmente trabalho com Suporte Técnico
 - 💡 Estou cursando graduação em Análise e Desenvolvimento de Sistemas 
-- 🔄 Uma Java Developer em desenvolvimento
 - 🦾 Veja meu progresso nos repositórios
 
 <div align="center">  
@@ -48,6 +47,5 @@
 
 🖥️ I'm a IT technician and I currently work with Technical Support | 
 💡 I'm studying Systems Analysis and Development | 
-🔄 A Java Developer in Development | 
 🦾 See my progress in the repositories 
 
