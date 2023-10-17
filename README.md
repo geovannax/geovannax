@@ -9,7 +9,7 @@
  <tr> 
    <td>
    
-- 🖥️ Sou técnica em Informática e atualmente trabalho com Suporte Técnico
+- 🖥️ Sou técnica em Informática experiência com Suporte Técnico
 - 💡 Estou cursando graduação em Análise e Desenvolvimento de Sistemas 
 - 🦾 Veja meu progresso nos repositórios
 
