@@ -110,7 +110,7 @@
 ## 📝 Publicações Acadêmicas | Academic Publications
 
 - Artigo publicado na **Sociedade Brasileira de Computação (SBC)**:  
-  [Tecnologia e Educação: Robótica como Caminho para a Transformação do Ensino Técnico]([https://sol.sbc.org.br/](https://sol.sbc.org.br/index.php/educomp/article/view/34228))  
+  [Tecnologia e Educação: Robótica como Caminho para a Transformação do Ensino Técnico](https://sol.sbc.org.br/index.php/educomp/article/view/34228)  
 
 *(mais publicações em andamento, relacionadas a IA Generativa na Educação e Avaliação Formativa)*
 
